@@ -1,0 +1,3 @@
+[submodule "my_bank_backend"]
+	path = my_bank_backend
+	url = https://github.com/katekate7/my_bank_backend.git
